@@ -77,3 +77,28 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1617620691891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Altieres\\AppData\\Local\\Temp\\rust_mozprofilenkgEb3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617620697133	Marionette	INFO	Listening on port 60128
+1617620697256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:5000/blog, line 7: TypeError: document.getElementById(...) is null
+1617620724248	Marionette	INFO	Stopped listening on port 60128
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Store.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617620704335	Marionette	INFO	Listening on port 60171
+1617620704856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:5000/blog, line 7: TypeError: document.getElementById(...) is null
+1617620723299	Marionette	INFO	Stopped listening on port 60171
+\\Altieres\\AppData\\Local\\Temp\\rust_mozprofileXb3WQ2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617620712258	Marionette	INFO	Listening on port 60230
+1617620712638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617620722100	Marionette	INFO	Stopped listening on port 60230
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
