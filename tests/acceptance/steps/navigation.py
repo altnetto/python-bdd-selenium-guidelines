@@ -32,3 +32,8 @@ def step_impl(context):
     expected_url = base_url + '/'
     
     assert context.browser.current_url == expected_url
+
+
+@step('Close the window')
+def step_impl(context):
+    context.browser.close()
