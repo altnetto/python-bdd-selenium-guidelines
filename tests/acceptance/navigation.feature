@@ -6,3 +6,8 @@ Feature: Test navigation between pages
         Given I am on the Homepage
         When I click on the link id "blog-link"
         Then I am on the blog page
+
+    Scenario: Blog can go to Homepage
+        Given I am on the blog page
+        When I click on the link id "home-link"
+        Then I am on the Homepage

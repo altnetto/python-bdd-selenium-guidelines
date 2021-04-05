@@ -28,3 +28,52 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1617581425601	Marionette	INFO	Listening on port 58240
 1617581425912	Marionette	WARN	TLS certificate errors will be ignored for this session
 1617581432239	Marionette	INFO	Stopped listening on port 58240
+1617619459576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Altieres\\AppData\\Local\\Temp\\rust_mozprofileIx7tUF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617619466833	Marionette	INFO	Listening on port 59481
+1617619467134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:5000/blog, line 7: TypeError: document.getElementById(...) is null
+1617619503151	Marionette	INFO	Stopped listening on port 59481
+\\Altieres\\AppData\\Local\\Temp\\rust_mozprofileEDyWOS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617619474725	Marionette	INFO	Listening on port 59527
+1617619474887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617619502067	Marionette	INFO	Stopped listening on port 59527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617619542625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Altieres\\AppData\\Local\\Temp\\rust_mozprofileJgx6uS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617619547528	Marionette	INFO	Listening on port 59613
+1617619547978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:5000/blog, line 7: TypeError: document.getElementById(...) is null
+1617619565904	Marionette	INFO	Stopped listening on port 59613
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Store.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617619555150	Marionette	INFO	Listening on port 59657
+1617619555233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617619565240	Marionette	INFO	Stopped listening on port 59657
+1617619659728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Altieres\\AppData\\Local\\Temp\\rust_mozprofilekJg1x3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617619665058	Marionette	INFO	Listening on port 59749
+1617619665117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:5000/blog, line 7: TypeError: document.getElementById(...) is null
+1617619706353	Marionette	INFO	Stopped listening on port 59749
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Store.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617619673069	Marionette	INFO	Listening on port 59795
+1617619673521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617619705787	Marionette	INFO	Stopped listening on port 59795
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

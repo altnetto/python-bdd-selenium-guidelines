@@ -1,2 +1,2 @@
-run-test:
+test:
 	env\scripts\activate && behave tests/acceptance
