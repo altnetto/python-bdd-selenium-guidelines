@@ -5,6 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Python: Behave (.venv)",
+            "type": "python",
+            "request": "launch",
+            "module": "behave",
+            "console": "integratedTerminal",
+            "args": [
+                "./tests/acceptance"
+            ]
+        },
+        {
             "name": "Python: Arquivo Atual",
             "type": "python",
             "request": "launch",
